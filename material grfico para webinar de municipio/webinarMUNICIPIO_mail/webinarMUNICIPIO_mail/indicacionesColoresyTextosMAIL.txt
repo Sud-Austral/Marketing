@@ -1,0 +1,24 @@
+COLORES:
+Color azul de fondo: #0E0C44.
+Color de tipografía (Temario,Compartir evento):#BDD5F2.
+
+TEXTOS:
+Educación, salud, delincuencia, crecimiento demográfico y económico, entre otros muchos temas, son abordados desde el Municipio para una gestión eficiente de los recursos estatales.En este webinar presentaremos la Colección Municipio diseñada para ayudar a lograr esa eficiencia. Son miles de Datos generados en 20 años de gestión compilados en gráficos y mapas interactivos para cada una de las 346 comunas del país. 
+
+
+
+Un ejemplo de los muchos temas que vincula esta colección es la posibilidad de observar la proporción y frecuencia del número de delitos ocurridos en la comuna, identificando cada tipo de delito. En este caso se presenta información en la comuna de Concepción con lo sucedido el año 2020. Si sigue este link podrá interactuar con este gráfico.
+
+(CLENT:en la palabra link enviaría al usuario a la página de landing page)
+
+
+
+TEMARIO:
+· ¿Qué es Data Intelligence?· El análisis multidimensional para una gestión municipal eficiente· Desafíos para la gestión de datos y el acceso oportuno a la información municipal· Colección Municipios: 20 años de información de las 346 comunas de Chile
+
+10:00 a. m. Vía Zoom
+
+CUPOS LIMITADOS
+Recibirás el link de zoom un día antes del webinar 
+
+COMPARTIR EVENTO
